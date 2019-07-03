@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.xhiftcorp.anypal",
+    "sha256_cert_fingerprints":
+    ["1C:2E:8F:99:0F:BB:83:A7:CD:93:A0:73:54:92:6E:21:9E:90:57:C6:C4:D4:EC:2C:11:BD:4C:44:94:84:40:DF"]
+  }
+}]
